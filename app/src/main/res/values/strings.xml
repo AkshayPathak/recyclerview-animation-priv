@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">LearnKotlin</string>
+    <string name="done_selection">Done selection</string>
+</resources>
